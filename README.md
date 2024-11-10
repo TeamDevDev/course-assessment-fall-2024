@@ -7,8 +7,9 @@ and you do not need to add any files to this repository.
 
 The course instructor will us this repository to submit overall course
 assessment reports to either the issue tracker or the pull requests tracker in
-this repository. Students who have questions about their overall assessments
-are encouraged to schedule a meeting with the instructor during office hours.
+this repository. Students who have questions about their any aspects of their
+course assessments are encouraged to schedule a meeting with the instructor
+during [office hours](https://www.gregorykapfhammer.com/schedule/).
 
 As explained on the [course web site](https://developerdevelopment.com/), the
 grade that a student receives in this class will be based on the following

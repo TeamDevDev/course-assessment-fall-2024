@@ -1,5 +1,7 @@
 # Overall Course Assessment
 
+## Introduction
+
 The purpose of this repository is to give you feedback on your overall grade in
 Computer Science 203, Software Engineering. With the exception of the template
 for requesting the use of a token, there are no files inside of this repository
@@ -10,6 +12,8 @@ assessment reports to either the issue tracker or the pull requests tracker in
 this repository. Students who have questions about any aspect of their course
 assessments are encouraged to schedule a meeting with the instructor during
 [office hours](https://www.gregorykapfhammer.com/schedule/).
+
+## Assessment Categories
 
 As explained on the [course web site](https://developerdevelopment.com/), the
 grade that a student receives in this class will be based on the following
@@ -117,3 +121,7 @@ in-person setting and through a public GitHub repository, with the use of a
 private GitHub repository offering the opportunity for the student to document
 and reflect on their contributions and for the instructor to offer detailed
 feedback and assessments.
+
+## Token Use
+
+

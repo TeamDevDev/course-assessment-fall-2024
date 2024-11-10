@@ -122,6 +122,24 @@ private GitHub repository offering the opportunity for the student to document
 and reflect on their contributions and for the instructor to offer detailed
 feedback and assessments.
 
-## Token Use
+## Token Use Instructions
 
+**Please follow these steps to use one of your two tokens**:
 
+- **Step One**: Create an issue in this repository's issue tracker, using the
+  "Token Usage" template in the following section.
+- **Step Two**: Send a direct message to the course instructor on Discord,
+  sharing the URL of the issue that you created in the previous step.
+- **Step Three**: Wait for the course instructor to respond to your issue,
+  providing you with feedback on your request to use a token.
+- **Step Four**: If the course instructor approves your request to use a token,
+  then you should follow the instructions that they provide to you in the
+  issue's comments, completing the work by the agreed on schedule.
+- **Step Five**: After you complete the work, the course instructor will
+  provide you with feedback on your submission and then close the issue.
+
+## Token Use Template
+
+Please refer to the file in this repository called [tokens.md](tokens.md) for
+the token use template that you should used as the content for the issue in
+GitHub.

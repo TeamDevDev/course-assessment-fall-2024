@@ -19,7 +19,9 @@ As explained on the [course web site](https://developerdevelopment.com/), the
 grade that a student receives in this class will be based on the following
 categories. All of these percentages are approximate and, if the need to do so
 presents itself, the course instructor may change the assigned percentages
-during the academic semester.
+during the academic semester. If there are changes to these categories during
+the academic semester then they will appear solely on the course web site; the
+content in this file is exclusively for a student's quick reference.
 
 - **Team Participation**: 5%
 - **Executive Summaries**:

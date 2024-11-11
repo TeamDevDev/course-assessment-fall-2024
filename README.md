@@ -141,6 +141,8 @@ feedback and assessments.
   both GitHub and Discord to let them know that you have completed the work.
 - **Step Six**: After you complete the work, the course instructor will
   provide you with feedback on your submission and then close the issue.
+- **Step Seven**: Repeat these steps if you would like to use another token, 
+  up to the maximum of three tokens during the academic semester.
 
 ## Token Use Template
 

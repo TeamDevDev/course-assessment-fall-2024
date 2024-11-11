@@ -99,7 +99,24 @@ executable examination in the Software Engineering course.
 
 ## Token Use Template
 
+**Apply a checkmark to each statement that you agree with.**
+
 - [ ] I have at least one remaining token to spend.
 - [ ] I know that requests are processed in the order they are received.
 - [ ] I will submit the correct URL for the GitHub repository.
-- [ ] I understand
+- [ ] I understand that I cannot pay a token for certain assignment types.
+- [ ] I will follow the rules for the assignment as I work on it.
+- [ ] I know the deadline for submitting revised work.
+- [ ] I will use this template to create an issue and send a direct message.
+- [ ] I understand that no requests will be granted after the semester ends.
+- [ ] I know that I must use the GitHub Classroom repository for my work.
+- [ ] I understand that the course instructor has the final say on grades.
+- [ ] I will only request a single action for the "payment" of a single token.
+- [ ] I will not use this template to request a re-assessment of the final exam.
+- [ ] I have read and understand all of the regulations for using a token.
+- [ ] I agree to abide by the Allegheny College Honor Code.
+- [ ] I have used this template to create an issue in this repository.
+
+**What is the URL of the GitHub repository that you to regain access to?**
+
+- [Name of the GitHub repository](Link to the GitHub repository)

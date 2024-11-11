@@ -147,5 +147,5 @@ feedback and assessments.
 ## Token Use Template
 
 Please refer to the file in this repository called [tokens.md](tokens.md) for
-the token use template that you should used as the content for the issue in
-GitHub.
+additional instructions for using a token and the token use template that you
+should used as the content for the issue in GitHub.

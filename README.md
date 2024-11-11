@@ -126,7 +126,7 @@ feedback and assessments.
 
 ## Token Use Instructions
 
-**Please follow these steps to use one of your two tokens**:
+**Please follow these steps to use one of your three tokens**:
 
 - **Step One**: Create an issue in this repository's issue tracker, using the
   "Token Usage" template in the file referenced in the following section.

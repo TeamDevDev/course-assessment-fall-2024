@@ -99,6 +99,8 @@ executable examination in the Software Engineering course.
 
 ## Token Use Template
 
+**This is the content that you should use to create an issue in this GitHub repository.**
+
 **Apply a checkmark to each statement that you agree with.**
 
 - [ ] I have at least one remaining token to spend.

@@ -118,6 +118,6 @@ executable examination in the Software Engineering course.
 - [ ] I agree to abide by the Allegheny College Honor Code for resubmitted work.
 - [ ] I have used this template to create an issue and then send a direct message.
 
-**What is the URL of the GitHub repository that you to regain access to?**
+**What is the URL of the GitHub repository that you want to regain access to?**
 
 - [Name of the GitHub repository](Link to the GitHub repository)

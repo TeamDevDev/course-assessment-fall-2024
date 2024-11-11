@@ -50,10 +50,6 @@ cannot cite the work that they completed in a team-based fashion during a
 different module of the course. Students may also not use a token to pay to
 revise a blog post that they wrote in a team-based fashion.
 
-This means that students may not revise the blog post that appears on the course
-web site or the source code their team implemented as a part of the long-term
-software engineering project.
-
 5) Students who complete this form so that they can "pay" a token to finish
 missing work for a project must bear in mind that they must abide by the
 specific rules for that assignment as they work on it. For instance, this means

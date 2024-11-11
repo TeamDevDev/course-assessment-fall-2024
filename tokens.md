@@ -45,8 +45,11 @@ course. Again, students who do not provide a correct URL to a GitHub repository
 will have their issue closed and their token spent.
 
 4) Students who complete this form so that they can "pay" a token for the
-opportunity to work on an algorithm all-hands project acknowledge that they can
-only work on the individual report and not the team-based part of the project.
+opportunity to work on a module reflection repository acknowledge that they
+cannot cite the work that they completed in a team-based fashion during a
+different module of the course. Students may also not use a token to pay to
+revise a blog post that they wrote in a team-based fashion.
+
 This means that students may not revise the blog post that appears on the course
 web site or the source code their team implemented as a part of the long-term
 software engineering project.
@@ -102,3 +105,5 @@ executable examination in the Software Engineering course.
 
 - [ ] I have at least one remaining token to spend.
 - [ ] I know that requests are processed in the order they are received.
+- [ ] I will submit the correct URL for the GitHub repository.
+- [ ] I understand

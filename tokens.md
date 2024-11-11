@@ -107,7 +107,6 @@ executable examination in the Software Engineering course.
 - [ ] I understand that I cannot pay a token for certain assignment types.
 - [ ] I will follow the rules for the assignment as I work on it.
 - [ ] I know the deadline for submitting any revised project work.
-- [ ] I will use this template to create an issue and then send a direct message.
 - [ ] I understand that no requests will be granted after the semester ends.
 - [ ] I know that I must submit the GitHub Classroom repository for my work.
 - [ ] I understand that the course instructor has the final say on assessments.
@@ -115,7 +114,7 @@ executable examination in the Software Engineering course.
 - [ ] I will not use this template to request a re-assessment of the final exam.
 - [ ] I have read and understand all of the regulations for using a token.
 - [ ] I agree to abide by the Allegheny College Honor Code for resubmitted work.
-- [ ] I have used this template to create an issue in this repository.
+- [ ] I have used this template to create an issue and then send a direct message.
 
 **What is the URL of the GitHub repository that you to regain access to?**
 

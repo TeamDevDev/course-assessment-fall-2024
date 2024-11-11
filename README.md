@@ -148,4 +148,6 @@ feedback and assessments.
 
 Please refer to the file in this repository called [tokens.md](tokens.md) for
 additional instructions for using a token and the token use template that you
-should used as the content for the issue in GitHub.
+should used as the content for the issue in GitHub. If you do not understand how
+to use a token, please ask the course instructor for additional clarification in
+a public channel in the course's Discord server.

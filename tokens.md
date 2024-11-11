@@ -11,9 +11,9 @@ submit a request for your work to be reassessed by "paying" a token.
 You should use the template content in this form to **create an issue** in this
 GitHub repository. After creating the issue you should **send a link to the
 issue to the course instructor through a direct message on Discord**. Any
-student who submits this forms is declaring that they have read and do agree
-with all of the following regulations for using a token to request re-assessment
-of their work in this course. Please do not submit this form until you have
+student who submits this form is declaring that they have read and agree with
+all of the following regulations for using a token to request re-assessment of
+their work in this course. Please do not submit this form until you have
 carefully read and understood all of the points in the form.
 
 ## Token Use Regulations
